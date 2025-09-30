@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Israel bajulaye
+- AKA jeshurunB
 - 👀 I’m interested in robotics and ai related suff
 - 🌱 I’m currently learning intermediate python programming
 - 💞️ I’m looking to collaborate on any project
