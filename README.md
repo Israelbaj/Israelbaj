@@ -3,7 +3,7 @@
 - 👀 I’m interested in robotics and ai related suff
 - 🌱 I’m currently learning intermediate python programming
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me +2347034956103 whatsapp   my email israelbajulaye4real@gmail.com
+- 📫 How to reach me +2347034956103 whatsapp   my email contactisraelbajulaye@gmail.com
 - 😄 Pronouns: ... HE/HIM
 - ⚡ Fun fact: ... am a mechanical engineering student looking to major in robotics
 <!---
